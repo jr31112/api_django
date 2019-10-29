@@ -1,0 +1,77 @@
+[
+{
+  "model": "musics.artist",
+  "pk": 1,
+  "fields": {
+    "name": "\ud0dc\uc5f0"
+  }
+},
+{
+  "model": "musics.artist",
+  "pk": 2,
+  "fields": {
+    "name": "MC\ubabd"
+  }
+},
+{
+  "model": "musics.artist",
+  "pk": 3,
+  "fields": {
+    "name": "\uc545\ub3d9\ubba4\uc9c0\uc158"
+  }
+},
+{
+  "model": "musics.artist",
+  "pk": 4,
+  "fields": {
+    "name": "\uc7a5\ubc94\uc900"
+  }
+},
+{
+  "model": "musics.artist",
+  "pk": 5,
+  "fields": {
+    "name": "\uc784\uc7ac\ud604"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 1,
+  "fields": {
+    "artist": 1,
+    "title": "\ubd88\ud2f0"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 2,
+  "fields": {
+    "artist": 2,
+    "title": "\uc778\uae30"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 3,
+  "fields": {
+    "artist": 3,
+    "title": "\uc5b4\ub5bb\uac8c \uc774\ubcc4\uae4c\uc9c0 \uc0ac\ub791\ud558\uaca0\uc5b4, \ub110 \uc0ac\ub791\ud558\ub294 \uac70\uc9c0"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 4,
+  "fields": {
+    "artist": 4,
+    "title": "\ud754\ub4e4\ub9ac\ub294 \uaf43\ub4e4 \uc18d\uc5d0\uc11c \ub124 \uc0f4\ud478\ud5a5\uc774 \ub290\uaef4\uc9c4\uac70\uc57c"
+  }
+},
+{
+  "model": "musics.music",
+  "pk": 5,
+  "fields": {
+    "artist": 5,
+    "title": "\uc870\uae08 \ucde8\ud588\uc5b4"
+  }
+}
+]
